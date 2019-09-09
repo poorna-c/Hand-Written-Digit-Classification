@@ -3,3 +3,6 @@ Hand Written Digit Classification implemented using Tensorflow and Keras. Both C
 
 
 Video : https://www.youtube.com/watch?v=3us6r22TNvw
+
+Data for Logistic Regression : https://www.kaggle.com/c/digit-recognizer/data (Data.csv File not uploaded due to 
+          file size is too large)
