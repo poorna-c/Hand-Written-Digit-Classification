@@ -13,3 +13,6 @@ Data for Logistic Regression : https://www.kaggle.com/c/digit-recognizer/data (D
           This Application can be developed in many different ways but here i just want to explore the use of 
           different libraries like matplotlib and pygame.
 Video: https://youtu.be/yoFHBx0Wktw
+
+### Kaggle Submission Score: 0.99728
+![Capture](https://user-images.githubusercontent.com/46214838/68068062-b9ff5f00-fd76-11e9-8b3d-20534da7ace9.PNG)
